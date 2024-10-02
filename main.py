@@ -5,16 +5,16 @@ from selenium.webdriver.support import expected_conditions as expect
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.by import By
 
-dir = '//Users/macbookair/Downloads/vova'
+dir = r'C:\Users\Chiter\Documents\Escape from Tarkov\Screenshots'
 extension_file = 'png'
-extension_file = 'jpeg'
+
 # href_map = 'https://альп-спб.рф/admin.html'
 href_map = 'https://tarkov-market.com/maps/ground-zero'
 
 
 def check_file(dir, extension_file):
     list_files_in_path = os.listdir(dir)
-    print(list_files_in_path)
+    print(f'list_files_in_path = {list_files_in_path}')
     num = len(extension_file)
     for file in list_files_in_path:
         extension = file[-num:]
@@ -33,7 +33,7 @@ def work_with_input(filename, href_map):
     elem_button.click()
     time.sleep(3)
     elem_input = browser.find_element(by=By.XPATH, value='//*[@id="__nuxt"]/div/div/div[2]/div/div/div[1]/div[2]/input')
-    elem_input.send_keys("Hi, Vova")
+    elem_input.send_keys(filename)
     #
     # elem_button = browser.find_element(by=By.XPATH, value='/html/body/center/form/input[1]')
     # elem_button.send_keys("Hi, Vova")
@@ -46,7 +46,7 @@ def work_with_input(filename, href_map):
 
 
 
-    time.sleep(5)
+    time.sleep(15)
 
     # elem = WebDriverWait(browser, 10, 1).until(
     #     expect.visibility_of_element_located(

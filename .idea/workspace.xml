@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9085467a-01da-47a9-8789-c32bcea22507" name="Changes" comment="firstgjk" />
+    <list default="true" id="9085467a-01da-47a9-8789-c32bcea22507" name="Changes" comment="firstgjk">
+      <change afterPath="$PROJECT_DIR$/2024-10-01[22-45]_73.9, 15.7, -54.5_0.0, 0.8, 0.0, 0.6_9.35 (0).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-01[22-46]_117.4, 15.6, 57.2_0.0, 0.7, 0.0, 0.7_9.45 (0).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-01[22-46]_86.5, 15.5, 43.4_-0.1, -0.1, 0.0, -1.0_9.43 (0).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-01[22-46]_92.9, 15.6, -0.5_0.0, 0.0, 0.0, 1.0_9.40 (0).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,22 +20,38 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lxlermit&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lxlermit/tarkov_where_i_am_on_map.git&quot;,
+    &quot;accountId&quot;: &quot;06c3a58d-4e39-4f2c-8828-ab68a6cd648c&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2mnoHrNojDW3h5vSbAzX9dNZ7EC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
   <component name="RunManager">
@@ -58,7 +81,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
       </set>
     </attachedChunks>
   </component>
@@ -83,6 +106,7 @@
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first" />
     <MESSAGE value="firstgjk" />
     <option name="LAST_COMMIT_MESSAGE" value="firstgjk" />
